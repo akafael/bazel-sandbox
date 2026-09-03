@@ -1,5 +1,5 @@
 import unittest
-from examples.python_project.deep_thought import deep_thought
+from deep_thought import deep_thought
 
 
 class TestDeepThought(unittest.TestCase):
